@@ -32,3 +32,5 @@ Reverting to a previous commit is always possible, meaning that even if you do b
 7. Now that you have your workspace set up, what do you want to try using Git for?
 
 TO MAKE MONEY BIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIITCH. In all seriousness, Git is an invaluable tool for any kind of programming and I need to be confident using it.
+
+MOZ GA DUVATE
