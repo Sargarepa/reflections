@@ -21,3 +21,7 @@ It helps by showing the parent of each commit as well as which commit is reachab
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is a single branch with the combined commits of the two branches merged. It is represented in such a way to show that the new merged commit is parent to all the commits in both branches and all the commits that happened before the branching.
+
+7. What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+The pros of automatic merging is the speed and efficiency, but manually merging gives the developer more control on how the merge is done.
