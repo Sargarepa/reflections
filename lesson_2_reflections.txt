@@ -4,4 +4,8 @@ A hidden .git file is added to the directory. This file is used to keep track of
 
 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-The staging area is used to add only the files from the working directory which will have changes made in the current commit. This is useful because you can separate the commited files logically from the entire working directory. 
+The staging area is used to add only the files from the working directory which will have changes made in the current commit. This is useful because you can separate the commited files logically from the entire working directory.
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+By only adding files from the repository which are part of the same logical change to the staging area, we make sure not to commit changes to any other files. 
