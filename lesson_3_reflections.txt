@@ -13,3 +13,7 @@ Branches are, as the name suggests, branches of commits within the same reposito
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 
 By having the last known state of the remote stored locally we can 'remember' when we last synced the local and remote repositories. We can then do work on our local main branch, while other people can push changes to the remote branch on GitHub. At this point the two branches will be out of sync, and we can fetch the remote branch to our local machine and then either merge it with our own main branch (this is done when pulling from GitHub) or just see the differences between the two.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without Git or GitHub me and the people I am collaborating with would each have to locally store their versions of the project and then share and communicate via e-mail or some messaging app. This is feasible for smaller projects, but for larger one Git and GitHub are much better because version control is much more flexible, everyone can contribute without fear of breaking something, and it is all in a centrallized version-control system and we wouldn't need to use e-mail or third party apps to communicate.
