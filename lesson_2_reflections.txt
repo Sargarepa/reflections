@@ -8,4 +8,8 @@ The staging area is used to add only the files from the working directory which 
 
 3. How can you use the staging area to make sure you have one commit per logical change?
 
-By only adding files from the repository which are part of the same logical change to the staging area, we make sure not to commit changes to any other files. 
+By only adding files from the repository which are part of the same logical change to the staging area, we make sure not to commit changes to any other files.
+
+4. What are some situations when branches would be helpful in keeping your history organized?
+
+Branches are helpful when adding an experimental feature which might not end up in the final application, while still updating and fixing the original branch. Also branches can be used to make multiple similar versions of the application but still different (different language, difficulty level etc.). 
