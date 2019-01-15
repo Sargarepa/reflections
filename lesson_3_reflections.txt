@@ -17,3 +17,7 @@ By having the last known state of the remote stored locally we can 'remember' wh
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Without Git or GitHub me and the people I am collaborating with would each have to locally store their versions of the project and then share and communicate via e-mail or some messaging app. This is feasible for smaller projects, but for larger one Git and GitHub are much better because version control is much more flexible, everyone can contribute without fear of breaking something, and it is all in a centrallized version-control system and we wouldn't need to use e-mail or third party apps to communicate.
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Making changes in a separate branch allows us to make a pull request rather than just push the changes to GitHub. This way we communicate the changes made, and allow our collaborators to check and approve them. Working directly in master is better for smaller, personal projects because there is little or no collaboration, and working directly in master saves time and is less complicated.
